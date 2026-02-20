@@ -13,4 +13,5 @@ public class func{
         a.greeding();
         a.demo();
     }
+
 }
