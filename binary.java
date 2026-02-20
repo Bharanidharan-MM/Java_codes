@@ -11,4 +11,6 @@ class binary{
         }
         System.out.println(res);
     }
+
 }
+
